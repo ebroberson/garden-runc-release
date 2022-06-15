@@ -11,7 +11,7 @@ pushd "musl-${musl_version}"
   make install
 popd
 
-tar_version="1.32"
+tar_version="1.30"
 
 tar xf "tar/tar-${tar_version}.tar.xz"
 
